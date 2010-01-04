@@ -56,7 +56,7 @@ g rxcs hjklii386
 g sxk lXT18 N+ ->rm
 g xsto88 exy18 rzw@g
 g witt lxn18!
-g wovlg lxnT8
+g wovlg lxn18! rx60
 g wtcxnfo wtcxst lxn19
 gif rx9 GF mT9RL
 gh ro xln99 ro@pm
