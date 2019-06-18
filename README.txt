@@ -66,7 +66,7 @@ vmht "ro@m";"ax166" DEL
 vmht "ro20m@g";"a169i" EMP
 vmht ro3by@g xco5i RS pp(ro@gx)
 vmht atl oXpWzu
-st rx4 lXn18
+st rx4 lXn18 DEL
 st rx9 a83!
 tz roln0@ m654Ray!
 yaru "ros@;lXT18
