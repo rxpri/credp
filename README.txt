@@ -34,6 +34,7 @@ g rx9 ax83 AL
 g rx30 VD ax83
 g rxcs hjklii386
 g witt lxn18!
+g rxl ax88
 gh itt a99
 gh lfs lfa@g lXn88
 gh sso rx4 lXn18
@@ -67,12 +68,10 @@ vmht atl oXpWzu
 st rx4 lXn18
 st rx9 a83!
 tz roln0@ m654Ray!
-yah ro m654RBlNc
 yaru "ros@;lXT18
 yaru "mery@;"";"exr8";
 yaru fb dyro mread lXT18
 yaco r.o lXTm18
-yaco rxl lxn18
 v rons OT lxn18
 vk ron OV roln1 lxt18
 vk row VK exr8
