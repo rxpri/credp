@@ -72,6 +72,7 @@ yaru "ros@;lXT18
 yaru "mery@;"";"exr8";
 yaru fb dyro mread lXT18
 yaco r.o lXTm18
+yaco rxl lxn18
 v rons OT lxn18
 vk ron OV roln1 lxt18
 vk row VK exr8
