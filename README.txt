@@ -38,7 +38,7 @@ g witt lxn18!
 gh itt a99
 gh lfs lfa@g lXn88
 gh sso rx4 lXn18
-gx gh rxp@gx ax83
+gx gh rxp@gx lxn188
 ig Y+rx30@ lXT18
 ig "ro50c@g";oaks83";lxm80 DEL
 ig rsol 182 lei8 DEL
@@ -66,6 +66,7 @@ vmht "ro@m";"ax166" DEL
 vmht "ro20m@g";"a169i" EMP
 vmht ro3by@g xco5i RS pp(ro@gx)
 vmht atl oXpWzu
+vmht fra TDh*DB
 st rx4 lXn18 DEL
 st rx9 a83!
 tz roln0@ m654Ray!
