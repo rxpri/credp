@@ -10,6 +10,7 @@ fb ro20m@g ax5b
 fb SL lxn18
 fb RO lXT18
 fb reo rx30@g lXT18
+g gitnt lxn18 rx5@
 g "eup@g";";lXT800 del
 g "hin@g";lXn18
 g r3by m321AA
@@ -57,7 +58,6 @@ pp ro@m xco7i LF(uk)
 sk ro ro@m;"WR675"
 tmdb rx4 a91
 tw of uk T "lex80"
-tw rx3 axt3
 tw exr8 3. 2013-it _DEL
 tw RO lXn18
 tw itt IO ittw@g lxTT80
