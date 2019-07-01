@@ -10,7 +10,7 @@ fb ro20m@g ax5b
 fb SL lxn18
 fb RO lXT18
 fb reo rx30@g lXT18
-g "eup@g";";lXT800
+g "eup@g";";lXT800 del
 g "hin@g";lXn18
 g r3by m321AA
 g "ro20m@g";"ax900"
@@ -38,7 +38,7 @@ g witt lxn18!
 gh itt a99
 gh lfs lfa@g lXn88
 gh sso rx4 lXn18
-gx gh rxp@gx lxn188
+gx gh rxp@gx lxn188 ro20m@g
 ig Y+rx30@ lXT18
 ig "ro50c@g";oaks83";lxm80 DEL
 ig rsol 182 lei8 DEL
