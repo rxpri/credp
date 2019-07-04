@@ -36,7 +36,7 @@ g rx9 ax83 AL
 g rx30 VD ax83
 g rxcs hjklii386
 g witt lxn18!
--gh itt a99
+gh itt a99
 gh lfs lfa@g lXn88
 gh sso rx4 lXn18
 gx gh rxp@gx lxn188 ro20m@g
@@ -47,7 +47,7 @@ ig rsol 182 lei8 DEL
 in  "ro@m";"ax1n"
 m+bb ipro NNAlw24
 m ro@m xco6i
-m itcc IO m765AA
+-m itcc IO m765AA
 gh itt itcc@m a99
 napio rx4@g ax169
 nc rz20 atops88
@@ -65,7 +65,7 @@ tw itt IO ittw@g lxTT80
 thwgn rx4@ re34
 vmht "ro@m";"ax166" DEL
 vmht "ro20m@g";"a169i" EMP
-vmht ro3by@g xco5i RS pp(ro@gx)
+vmht rx5g xco5i RS pp(ro@gx)
 vmht atl oXpWzu
 vmht fra TDh*DB
 st rx4 lXn18 DEL
