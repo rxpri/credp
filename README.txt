@@ -1,7 +1,7 @@
 am ro@m mT987Rl!
 bb "ro@m";"ax123" DEL
 bb svgm eiT62 rx4@
-bb itd itt@x lXm18
+bb itd rx5 lXm18
 cvo "ro@m";"HnEaPmLk"
 crvdo ro3by@ lXn18
 dgem "ro20m@g" S "eciNTO91"
@@ -31,16 +31,16 @@ g roln1@g lXT18
 g roln8 ax83
 g rx3 lxn180 spbPh
 g rx4 lXn18
-g rx5 ax83 lfsa
+g rx5 m987AA lfsa
 g rx9 ax83 AL
 g rx30 VD ax83
 g rxcs hjklii386
 g witt lxn18!
-gh itt a99
+gh itt rx5 a99
 gh lfs lfa@g lXn88
 gh sso rx4 lXn18
 gx gh rxp@gx lxn188 ro20m@g
-gx itt lxn18 rx5
+-gx itt lxn18 rx5
 ig Y+rx30@ lXT18
 ig "ro50c@g";oaks83";lxm80 DEL
 ig rsol 182 lei8 DEL
