@@ -16,8 +16,7 @@ g "hin@g";lXn18
 g r3by m321AA
 g "ro20m@g";"ax900"
 g "inex@g lXm88
-g "ittw@g";"ax169" ?
-g "ittw@g";lxTT80
+g "ittw@g";lXn18
 g "leng8@g";"lx8"
 g lfsa TTl30
 g rzz Y lxn18 Yt
