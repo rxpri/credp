@@ -36,6 +36,7 @@ g rx9 ax83 AL
 g rx30 VD ax83
 g rxcs hjklii386
 g spk lxn18 lfsa
+g sxk lXT18 N+
 g witt lxn18!
 gh itt rx5 a99
 gh lfs lfa@g lXn88
