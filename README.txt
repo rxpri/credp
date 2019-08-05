@@ -7,7 +7,7 @@ crvdo ro3by@ lXn18
 dgem "ro20m@g" S "eciNTO91"
 fb rln8@ lXT18
 fb ro20m@g ax5b
-fb SL lxn18
+fb SL lxn18 rx9 N+
 fb RO lXT18
 fb reo rx30@g lXT18
 g-iehst ittw@ re34 await
@@ -46,7 +46,7 @@ gh sxk spk@g lXn18
 -gx itt lxn18 rx5
 ig Y+rx30@ lXT18
 ig "ro50c@g";oaks83";lxm80 DEL
-ig rsol 182 lei8 DEL
+ig rbrtsol 182 lei8 rln0
 in  "ro@m";"ax1n"
 ifre ittw@ lxn18
 m+bb ipro NNAlw24
@@ -85,7 +85,7 @@ v rons OT lxn18
 vk ron OV roln1 lxt18
 vk row VK exr8
 vk tw dyro lxn18
-vk fb SL lxn18
+vk fb N+ lxn18
 wu NX
 wa ro@m lXn18
 dyro@lj";"LJ";"dyro@gx";"mTlna0";"";""
