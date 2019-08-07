@@ -68,6 +68,7 @@ tw of uk T "lex80"
 tw exr8 3. 2013-it _DEL
 tw RO lXn18
 tw itt IO ittw@g lxTT80
+tw gtnt lxn188
 thwgn rx4@ re34
 vmht "ro@m";"ax166" DEL
 vmht "ro20m@g";"a169i" EMP
