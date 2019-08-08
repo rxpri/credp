@@ -21,7 +21,7 @@ g "ittw@g";lXn18
 g "leng8@g";"lx8"
 g lfsa TTl30
 g rzz Y lxn18 Yt
-g rzw lxn18 Yt
+g rzw lxn18 Yt lfsa
 g ro50c@ 1ffili19
 g r o 50c@ lxn18!
 g ro20m@ lei8
@@ -37,6 +37,7 @@ g rx30 VD ax83
 g rxcs hjklii386
 g spk lxn18 lfsa
 g sxk lXT18 N+
+g xsto88 exy18 rzwg
 g witt lxn18!
 gh itt rx5 a99
 gh lfs lfa@g lXn88
