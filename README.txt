@@ -10,12 +10,9 @@ fb ro20m@g ax5b
 fb SL lxn18 rx9 N+
 fb RO lXT18
 fb reo rx30@g lXT18
-g-iehst ittw@ re34 await
 g gitnt lxn18 rx5@
-g "eup@g";";lXT800 del
 g "hin@g";lXn18
 g r3by m321AA
-g "ro20m@g";"ax900"
 g "inex@g lXm88
 g "ittw@g";lXn18
 g "leng8@g";"lx8"
