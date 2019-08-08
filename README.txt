@@ -69,11 +69,8 @@ tw RO lXn18
 tw itt IO ittw@g lxTT80
 tw gtnt lxn188
 thwgn rx4@ re34
-vmht "ro@m";"ax166" DEL
 vmht "ro20m@g";"a169i" EMP
 vmht rx5g xco5i RS pp(ro@gx)
-vmht atl oXpWzu
-vmht fra TDh*DB
 st rx4 lXn18 DEL
 st rx9 a83!
 tz roln0@ m654Ray!
