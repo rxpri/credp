@@ -56,6 +56,7 @@ nc rz20 atops88
 11 rz7 WR99 ro@m
 lftv incd re34
 lj rzw lXn18 rzw@
+lj irv Exy8 exs88
 pfb "ro@m" "roworks";"ax90"
 pm ro@ lXT18
 pp ro@gx deFX95 O BRC
