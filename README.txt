@@ -60,6 +60,7 @@ pm ro@ lXT18
 pp ro@gx deFX95 O BRC
 pp ro@m xco7i LF(uk)
 sk ro ro@m;"WR675"
+rnr roln8 lXT18 O
 tmdb rx4 a91
 tpiloot rx5 Ro lxn18
 tw of uk T "lex80"
