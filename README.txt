@@ -10,7 +10,7 @@ fb ro20m@g ax5b
 fb SL lxn18 rx9 N+
 fb RO lXT18
 fb reo rx30@g lXT18
-fb rx60 lxn18
+fb rx60 lXT18
 g gitnt lxn18 rx5@
 g "hin@g";lXn18
 g r3by m321AA
@@ -32,7 +32,7 @@ g rx4 lXn18
 g rx5 m987AA lfsa
 g rx9 ax83 AL
 g rx30 VD ax83
-g rx60 fb=
+g rx60 lx18
 g rxcs hjklii386
 g sxk lXT18 N+ ->rm
 g xsto88 exy18 rzwg
