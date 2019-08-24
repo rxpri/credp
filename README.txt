@@ -10,6 +10,7 @@ fb ro20m@g ax5b
 fb SL lxn18 rx9 N+
 fb RO lXT18
 fb reo rx30@g lXT18
+fb rx60 lxn18
 g gitnt lxn18 rx5@
 g "hin@g";lXn18
 g r3by m321AA
@@ -31,6 +32,7 @@ g rx4 lXn18
 g rx5 m987AA lfsa
 g rx9 ax83 AL
 g rx30 VD ax83
+g rx60 fb=
 g rxcs hjklii386
 g sxk lXT18 N+ ->rm
 g xsto88 exy18 rzwg
@@ -59,6 +61,7 @@ pfb "ro@m" "roworks";"ax90"
 pm ro@ lXT18
 pp ro@gx deFX95 O BRC
 pp ro@m xco7i LF(uk)
+pvp roln@ lxn18
 sk ro ro@m;"WR675"
 rnr roln8 lXT18 O
 tmdb rx4 a91
