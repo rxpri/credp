@@ -17,6 +17,7 @@ g r3by m321AA
 g "inex@g lXm88
 g "ittw@g";lXn18
 g "leng8@g";"lx8"
+g exs8 exr18 AMS
 g lfsa TTl30
 g rzz Y lxn18 Yt
 g rzw lxn18 Yt lfsa
