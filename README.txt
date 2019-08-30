@@ -38,7 +38,7 @@ g rxcs hjklii386
 g sxk lXT18 N+ ->rm
 g xsto88 exy18 rzwg
 g witt lxn18!
-gh itt rx5 a99
+gh itt rx30 a99
 gh lfs lfa@g lXn88
 gh sso rx4 lXn18
 gx gh rxp@gx lxn188 ro20m@g
