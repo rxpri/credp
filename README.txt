@@ -18,7 +18,7 @@ g "inex@g lXm88
 g "ittw@g";lXn18
 g "leng8@g";"lx8"
 g exs8 exr18 AMS
-g lfsa TTl30
+g lfsa TTl30 -
 g rzz Y lxn18 Yt
 g rzw lxn18 Yt lfsa
 g ro50c@ 1ffili19
@@ -27,19 +27,19 @@ g ro20m@ lei8
 g roln@g lXn18
 g roln0@g xco9x
 g roln1@g lXT18
-g roln8 ax83 lfa
+g roln8 ax83 rx30
 g rx3 lxn180 spbPh
 g rx4 lXn18
-g rx5 m987AA lfsa
-g rx9 ax83 AL
-g rx30 VD ax83
+g rx5 m987AA rx30
+g rx9 ax83 rx30
+g rx30 ax83 -
 g rx60 lx18
 g rxcs hjklii386
 g sxk lXT18 N+ ->rm
 g xsto88 exy18 rzwg
 g witt lxn18!
 gh itt rx30 a99
-gh lfs lfa@g lXn88
+gh lfs rx9 lXn88
 gh sso rx4 lXn18
 gx gh rxp@gx lxn188 ro20m@g
 -gx itt lxn18 rx5
