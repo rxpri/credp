@@ -6,7 +6,7 @@ cvo "ro@m";"HnEaPmLk"
 crvdo ro3by@ lXn18
 dgem "ro20m@g" S "eciNTO91"
 fb rln8@ lXT18
-fb ro20m@g ax5b
+fb rx3@g ax5b
 fb SL lxn18 rx9 N+
 fb RO lXT18
 fb reo rx30@g lXT18
