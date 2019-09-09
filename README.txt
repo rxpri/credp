@@ -28,7 +28,7 @@ g roln@g lXn18
 g roln0@g xco9x
 g roln1@g lXT18
 g roln8 ax83 rx30
-g rx3 lxn180 spbPh
+g rx3 lxn180 spbPh rx4@
 g rx4 lXn18
 g rx5 m987AA rx30
 g rx9 ax83 rx30
@@ -41,7 +41,8 @@ g witt lxn18!
 gh itt rx30 a99
 gh lfs rx9 lXn88
 gh sso rx4 lXn18
-gx gh rxp@gx lxn188 ro20m@g
+gh rxp@gx lxn188 rx3@ rxp@gx
+gx rxp@gx lxn188 
 -gx itt lxn18 rx5
 ig Y+rx30@ lXT18
 ig "ro50c@g";oaks83";lxm80 DEL
