@@ -19,7 +19,7 @@ g "ittw@g";lXn18
 g "leng8@g";"lx8"
 g exs8 exr18 AMS
 g lfsa TTl30 -
-g rzz Y lxn18 Yt
+g rzz A+ lxn18 Yt
 g rzw lxn18 Yt lfsa
 g ro50c@ 1ffili19
 g r o 50c@ lxn18!
@@ -44,7 +44,7 @@ gh sso rx4 lXn18
 gh rxp@gx lxn188 rx3@ rxp@gx
 gx rxp@gx lxn188 
 -gx itt lxn18 rx5
-ig Y+rx30@ lXT18
+ig rzz@@ lXT18
 ig "ro50c@g";oaks83";lxm80 DEL
 ig rbrtsol 182 lei8 rln0
 in  "ro@m";"ax1n"
@@ -70,7 +70,7 @@ tmdb rx4 a91
 tpiloot rx5 Ro lxn18
 tw of uk T "lex80"
 tw exr8 3. 2013-it _DEL
-tw RO lXn18
+tw rzz@ lXn18
 tw itt IO ittw@g lxTT80
 tw gtnt lxn188
 thwgn rx4@ re34
