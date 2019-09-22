@@ -9,6 +9,7 @@ fb rln8@ lXT18
 fb rx3@g ax5b
 fb SL lxn18 rx9 N+
 fb RO lXT18
+fb rzz lXT18
 fb reo rx30@g lXT18
 fb rx60 lXT18
 g gitnt lxn18 rx5@
