@@ -14,6 +14,7 @@ fb RO lXT18
 fb rzz lXT18
 fb reo rx30@g lXT18
 fb rx60 lXT18
+fc ro@gx xc6I
 g gitnt lxn18 rx5@
 g "hin@g";lXn18
 g r3by m321AA
@@ -47,6 +48,7 @@ gh sso rx4 lXn18
 gh rxp@gx lxn188 rx3@ rxp@gx
 gx rxp@gx lxn188 
 -gx itt lxn18 rx5
+gx ro vtavn9
 ig rzz@@ lXT18
 ig "ro50c@g";oaks83";lxm80 DEL
 ig rbrtsol 182 lei8 rln0
