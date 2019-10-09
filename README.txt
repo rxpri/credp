@@ -14,7 +14,7 @@ fb RO lXT18
 fb rzz lXT18
 fb reo rx30@g lXT18
 fb rx60 lXT18
-fc ro@gx xc6I
+fc ro@gx xc6I ginote512sr5YeA
 g gitnt lxn18 rx5@
 g "hin@g";lXn18
 g r3by m321AA
