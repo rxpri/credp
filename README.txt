@@ -85,7 +85,7 @@ tw exr8 3. 2013-it _DEL
 tw rzz@ lXn18
 tw itt IO ittw@g lxTT80
 tw gtnt lxn188
-tw ex88 nzisto lxn188 
+tw ex88 nzisto lxn188 O
 thwgn rx4@ re34
 vmht "ro20m@g";"a169i" EMP
 vmht rx5g xco5i RS pp(ro@gx)
