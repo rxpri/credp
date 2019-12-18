@@ -41,7 +41,7 @@ g rx30 ax83 roln0
 g rx60 lx18
 g rxcs hjklii386
 g sxk lXT18 N+ ->rm
-g xsto88 exy18 rzwg
+g xsto88 exy18 rzw@g
 g witt lxn18!
 gh itt rx30 a99
 gh lfs rx9 lXn88
@@ -67,7 +67,7 @@ lftv incd re34
 lj dyro@lj" "dyro@gx";"mTlna0";"";""
 lj rzw lXn18 rzw@
 lj rn exO88
-lj irv Exy8 exs88
+lj irv Exy8 exs88 DEL
 lpn 5dcc.b26ccfa rx
 pfb "ro@m" "roworks";"ax90"
 pm ro@ lXT18
@@ -85,6 +85,7 @@ tw exr8 3. 2013-it _DEL
 tw rzz@ lXn18
 tw itt IO ittw@g lxTT80
 tw gtnt lxn188
+tw ex88 nzisto lxn188 
 thwgn rx4@ re34
 vmht "ro20m@g";"a169i" EMP
 vmht rx5g xco5i RS pp(ro@gx)
