@@ -89,6 +89,7 @@ tw ex88 nzisto lxn188 O
 thwgn rx4@ re34
 vmht "ro20m@g";"a169i" EMP
 vmht rx5g xco5i RS pp(ro@gx)
+vmht ro@gx xco5i 
 st rx4 lXn18 DEL
 st rx9 a83!
 tz roln0@ m654Ray!
