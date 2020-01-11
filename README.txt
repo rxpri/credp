@@ -39,6 +39,7 @@ g rx5 m987AA rx30
 g rx9 ax83 rx30
 g rx30 ax83 roln0
 g rx60 lx18
+g rx881 lXn18
 g rxcs hjklii386
 g sxk lXT18 N+ ->rm
 g xsto88 exy18 rzw@g
