@@ -69,7 +69,7 @@ lj dyro@lj" "dyro@gx";"mTlna0";"";""
 lj rzw lXn18 rzw@
 lj rn exO88
 lj irv Exy8 exs88 DEL
-lpn 5dcc.b26ccfa rx
+lpn 5dcc.b26ccfa rx60 
 pfb "ro@m" "roworks";"ax90"
 pm ro@ lXT18
 pm rnmd8 exo8x3
@@ -88,6 +88,7 @@ tw rzz@ lXn18
 tw itt IO ittw@g lxTT80
 tw gtnt lxn188
 tw ex88 nzisto lxn188 O
+tw brgo rx60 lX18
 thwgn rx4@ re34
 vmht "ro20m@g";"a169i" EMP
 vmht rx5g xco5i RS pp(ro@gx)
