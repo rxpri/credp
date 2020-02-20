@@ -93,7 +93,7 @@ tw rnw xc4R
 tw itt IO ittw@g lxTT80
 tw gtnt lxn188
 tw ex88 nzisto lxn188 O
-tw brgo rx60 lX18
+tw wovloh rx60 lX18
 thwgn rx4@ re34
 vmht "ro20m@g";"a169i" EMP
 vmht rx5g xco5i RS pp(ro@gx)
