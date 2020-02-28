@@ -74,8 +74,6 @@ lj dyro@lj" "dyro@gx";"mTlna0";"";""
 lj rzw lXn18 rzw@
 lj rn exO88
 lj irv Exy8 exs88 DEL
-lpn 5dcc.b26ccfa rx60 
-lvn rx4 1#1QQn0fN3jQp
 pfb "ro@m" "roworks";"ax90"
 pm ro@ lXT18
 pm rnmd8 exo8x3
@@ -98,7 +96,7 @@ tw ex88 nzisto lxn188 O
 tw wovloh rx60 lX18
 thwgn rx4@ re34
 vmht "ro20m@g";"a169i" EMP
-vmht rx5g xco5i RS pp(ro@gx)
+vmht rx5g xco5i RS pp(ro@gx) o458pW.
 vmht ro@gx Xco5I 
 st rx4 lXn18 DEL
 st rx9 a83!
