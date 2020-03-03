@@ -18,6 +18,7 @@ fb rzz lXT18
 fb ro@pm lxn18+
 fb reo rx30@g lXT18
 fc ro@gx xc6I ginote512sr5YeA
+g dtex exm88 roln1
 g gitnt lxn18 rx5@
 g "hin@g";lXn18
 g r3by m321AA
@@ -49,9 +50,11 @@ g xsto88 exy18 rzw@g
 g witt lxn18!
 g wovlg lxnT8
 gif rx9 GF mT9RL
+gh dtex lXm18 dtexg
 gh itt rx30 a99
 gh lfs rx9 lXn88
 gh sso rx4 lXn18
+gh wtx ro@pm ax99
 gh rxp@gx lxn188 rx3@ rxp@gx
 gx rxp@gx lxn188 
 -gx itt lxn18 rx5
