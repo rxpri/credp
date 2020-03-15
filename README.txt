@@ -54,7 +54,7 @@ gif rx9 GF mT9RL
 gh dtex lXm18 dtexg
 gh itt rx30 a99
 gh lfs rx9 lXn88
-gh sso rx4 lXn18
+gh sso rx4 lXn18 rx30
 gh wtx ro@pm ax99
 gh rxp@gx lxn188 rx3@ rxp@gx
 gx rxp@gx lxn188 
