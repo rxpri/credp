@@ -101,8 +101,8 @@ tw wovloh rx60 lX18
 tw isol inex ^
 thwgn rx4@ re34
 vmht "ro20m@g";"a169i" EMP
-vmht rx5g xco5i RS pp(ro@gx) o458pW.
-vmht ro@gx Xco5I 
+vmht rx5g xco5i TRM
+vmht ro@gx Xco5I shp
 st rx4 lXn18 DEL
 st rx9 a83!
 tz roln0@ m654Ray!
