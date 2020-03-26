@@ -88,6 +88,7 @@ pp ro@m xco7i LF(uk)
 pvp roln@ lxn18
 sk ro ro@m;"WR675"
 rnr roln8 lXT18 O
+tkdt roln1 re34
 tmdb rx4 a91
 tpiloot rx5 Ro lxn18
 trdo rx3by re34
