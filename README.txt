@@ -35,6 +35,7 @@ g rzw lxn18 Yt lfsa
 g ro50c@ 1ffili19
 g r o 50c@ lxn18!
 -g ro20m@ lei8
+g r o w lXn18
 g roln@g lXn18
 g roln0@g xco9x
 g roln1@g lXT18 lfsa
@@ -79,6 +80,7 @@ lj dyro@lj" "dyro@gx";"mTlna0";"";""
 lj rzw lXn18 rzw@
 lj rn exO88
 lj irv Exy8 exs88 DEL
+odomns roln1 re34
 pfb "ro@m" "roworks";"ax90"
 pm ro@ lXT18
 pm rnmd8 exo8x3
