@@ -15,6 +15,7 @@ fb rx3@g ax5b
 fb SL lxn18 rx9 N+
 fb RO lXT18
 fb rzz lXT18
+fb r_o lxn188 rtec@ 49
 fb ro@pm lxn18+
 fb reo rx30@g lXT18
 fc ro@gx xc6I ginote512sr5YeA
@@ -100,7 +101,7 @@ tw exr8 3. 2013-it _DEL
 tw rzz@ lXn18
 tw rnw xc4R
 tw itt IO ittw@g lxTT80
-tw gtnt lxn188
+tw r_o lxn188 rtec@
 tw ex88 nzisto lxn188 O
 tw wovloh rx60 lX18
 tw isol inex ^
