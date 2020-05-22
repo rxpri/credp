@@ -12,10 +12,9 @@ crvdo ro3by@ lXn18
 dgem "ro20m@g" S "eciNTO91"
 fb rln8@ lXT18
 fb rx3@g ax5b
-fb SL lxn18 rx9 N+
-fb RO lXT18
+fb rofb lXT18 rtec8 49
 fb rzz lXT18
-fb r o x lxn188 rtec@ 49
+fb r o x lxn188 roln1@
 fb ro@pm lxn18+
 fb reo rx30@g lXT18
 fc ro@gx xc6I ginote512sr5YeA
@@ -124,6 +123,7 @@ vk fb N+ lxn18
 vk SL lxn18
 vk LF nmd exO88
 wa ro@m lXn18
+wdevn rtec8 lXT18+
 wflw rx9 re34
 whtl rx5@ re34
 wu NX
