@@ -69,6 +69,7 @@ ig rbrtsol 182 lei8 rln0
 in  "ro@m";"ax1n"
 ifre ittw@ lxn18
 m+bb ipro NNAlw24
+mstd rx30 +@ lxn18
 m ro@m xco6i
 -m itcc IO m765AA
 mi rx60 mXi18
