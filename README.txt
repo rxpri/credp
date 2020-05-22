@@ -15,7 +15,7 @@ fb rx3@g ax5b
 fb SL lxn18 rx9 N+
 fb RO lXT18
 fb rzz lXT18
-fb r_o lxn188 rtec@ 49
+fb r o x lxn188 rtec@ 49
 fb ro@pm lxn18+
 fb reo rx30@g lXT18
 fc ro@gx xc6I ginote512sr5YeA
