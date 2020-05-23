@@ -55,7 +55,8 @@ g wovlg lxnT8
 g wtcxnfo wtcxst lxn19
 gif rx9 GF mT9RL
 gh dtex lXm18 dtexg
-gh itt rx30 a99
+gh itp rx30 a99
+gh itt lxn188 ittw@
 gh lfs rx9 lXn88
 gh sso rx4 lXn18 rx30
 gh wtx ro@pm ax99
