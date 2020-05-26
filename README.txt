@@ -10,6 +10,7 @@ ctb elTx7-0
 cvo "ro@m";"HnEaPmLk"
 crvdo ro3by@ lXn18
 dgem "ro20m@g" S "eciNTO91"
+ddmf rx30@ lXn18!
 fb rln8@ lXT18
 fb rx3@g ax5b
 fb rofb lXT18 rtec8 49
@@ -91,6 +92,7 @@ pofrr ro@gx mT8Rl
 pp ro@gx deFX99 O BRC
 pp ro@m xco7i LF(uk)
 pp rln@g Xco8I lv ct
+pup rtec8@ Rbtec altps7
 pvp roln@ lxn18
 sk ro ro@m;"WR675"
 rnr roln8 lXT18 O
