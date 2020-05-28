@@ -10,7 +10,8 @@ ctb elTx7-0
 cvo "ro@m";"HnEaPmLk"
 crvdo ro3by@ lXn18
 dgem "ro20m@g" S "eciNTO91"
-ddmf rx30@ lXn18!
+ddmf rx30@ lXn18! DE
+ddmf roln8@ mT987!! RO1689
 fb rln8@ lXT18
 fb rx3@g ax5b
 fb rofb lXT18 rtec8 49
@@ -107,7 +108,7 @@ tw rzz@ lXn18
 tw rnw xc4R
 tw itt IO ittw@g lxTT80
 tw r_o lxn188 rtec@
-tw ex88 nzisto lxn188 O
+tw nzisto rx4 lxn188 O
 tw wovloh rx60 lX18
 tw isol inex ^
 thwgn rx4@ re34
