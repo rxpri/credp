@@ -93,7 +93,8 @@ pm rnmd8 exo8x3
 pofrr ro@gx mT8Rl
 pp ro@gx deFX99 O BRC
 pp ro@m xco7i LF(uk)
-pp rln@g Xco8I lv ct
+pp rln@g Xco8I ->D
+pp ro3by Xco8I lv ct 51
 pup rtec8@ Rbtec altps7
 pvp roln@ lxn18
 sk ro ro@m;"WR675"
