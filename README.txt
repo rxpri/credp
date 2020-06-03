@@ -40,7 +40,7 @@ g r o 50c@ lxn18!
 -g ro20m@ lei8
 g r o w lXn18
 g roln@g lXn18
-g roln0@g xco9x NA
+g roln0@g xco9x
 g roln1@g lXT18 lfsa
 g roln8 ax83 rx30
 g rx3 lxn180 spbPh rx4@
