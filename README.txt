@@ -40,14 +40,14 @@ g r o 50c@ lxn18!
 -g ro20m@ lei8
 g r o w lXn18
 g roln@g lXn18
-g roln0@g xco9x
+g roln0@g xco9x NA
 g roln1@g lXT18 lfsa
 g roln8 ax83 rx30
 g rx3 lxn180 spbPh rx4@
 g rx4 lXn18
 g rx5 m987AA rx30
 g rx9 ax83 rx30
-g rx30 ax83 roln0
+g rx30 ax83 roln8
 g rx60 lx18
 g rx881 lXn18
 g rxcs hjklii386
@@ -69,7 +69,7 @@ gx rxp@gx lxn188
 gx ro vtavn9
 ig rzz@@ lXT18
 ig "ro50c@g";oaks83";lxm80 DEL
-ig rbrtsol 182 lei8 rln0
+ig rbrtsol 182 lei8 rln8
 in  "ro@m";"ax1n"
 ifre ittw@ lxn18
 m+bb ipro NNAlw24
