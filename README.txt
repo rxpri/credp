@@ -62,7 +62,7 @@ gh itp rtec8 a99
 gh itt lxn188 ittw@
 gh lfs rx9 lXn88
 gh sso rx4 lXn18 rx30
-gh wtx ro@pm ax99
+gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ rxp@gx
 gx rxp@gx lxn188 
 -gx itt lxn18 rx5
