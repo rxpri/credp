@@ -33,7 +33,7 @@ g exs8 exr18 AMS
 g irob lx8 AMS
 g lfsa TTl30 -
 g rtec lxd88 rx60
-g rzz A+ lxn18 Yt
+g rzz lxn18 Yt lfsa
 g rzw lxn18 Yt lfsa
 g ro50c@ 1ffili19
 g r o 50c@ lxn18!
