@@ -14,7 +14,7 @@ ddmf rx30@ lXn18! DE
 ddmf roln8@ mT987!! RO1689
 fb rln8@ lXT18
 fb rx3@g ax5b
-fb rofb lXT18 roln8
+fb rofb lXT18 exs8
 fb rzz lXT18
 fb r o x lxn188 roln1@
 fb rzz lxn18+
