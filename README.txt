@@ -71,7 +71,7 @@ gx rxp@gx lxn188
 -gx itt lxn18 rx5
 gx ro vtavn9
 ig rzz@@ lXT18
-ig "ro50c@g";oaks83";lxm80 DEL
+ig xst8@g;oaks83";lxm80 
 ig rbrtsol 182 lei8 rln8
 in  "ro@m";"ax1n"
 ifre ittw@ lxn18
