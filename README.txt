@@ -63,6 +63,7 @@ gh hgen mT987AA rln8
 gh itp rtec8 a99
 gh itt lxn188 ittw@
 gh lfs rx9 lXn88
+gh msts exr99 de rzwb@pm
 gh sso rx4 lXn18 rx30
 gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ rxp@gx
@@ -92,7 +93,7 @@ odomns roln1 re34
 pfb "ro@m" "roworks";"ax90"
 pm ro@ lXT18
 pm rnmd8 exo8x3
-pm rowb0 exO99
+pm rowb0 exO99 de
 pofrr ro@gx mT8Rl
 pp ro@gx deFX99 O BRC
 pp ro@m xco7i LF(uk)
