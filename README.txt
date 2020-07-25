@@ -68,7 +68,7 @@ gh itt lxn188 ittw@
 gh lfs rx9 lXn88
 gh mth exr99 de mth@pm
 gh mths erx99de rowb@p
-gh sso rx4 lXn18 rx30
+gh ro lXn18 rtcx@pm
 gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ rxp@gx
 gh itt itcc@m a99
@@ -98,6 +98,7 @@ pfb "ro@m" "roworks";"ax90"
 pm dst de xln18
 pm mth exO99 de
 pm ro@ lXT18
+pm rtcx lXT18
 pm rnmd8 exo8x3
 pm rowb0 exO99 de rx881
 pofrr ro@gx mT8Rl
