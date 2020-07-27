@@ -61,7 +61,7 @@ g wovlg lxnT8
 g wtcxnfo wtcxst lxn19
 gif rx9 GF mT9RL
 gh dtex lXm18 dtexg
-gh dst xln99 de
+gh rso xln99 de
 gh hgen mT987AA rln8
 gh itp rtec8 a99
 gh itt lxn188 ittw@
