@@ -102,10 +102,7 @@ pm rtcx lXT18
 pm rnmd8 exo8x3
 pm rowb0 exO99 de rx881
 pofrr ro@gx mT8Rl
-pp ro@gx deFX99 O BRC
-pp ro@m xco7i LF(uk)
-pp rln@g Xco8I ->D
-pp ro3by Xco8I lv ct 51
+pp ro@gx deFX99 O BRC 8620
 pup rtec8@ Rbtec altps7
 pvp roln@ lxn18
 swepn rtec8@g T4cina
