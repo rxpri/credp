@@ -60,15 +60,13 @@ g witt lxn18!
 g wovlg lxnT8
 g wtcxnfo wtcxst lxn19
 gif rx9 GF mT9RL
-gh dtex lXm18 dtexg
-gh rso xln99 de
+gh ro xln99 ro@pm
 gh hgen mT987AA rln8
-gh itp rtec8 a99
+gh itp rtec8g a99
 gh itt lxn188 ittw@
-gh lfs rx9 lXn88
 gh mth exr99 de mth@pm
 gh mths erx99de rowb@p
-gh ro lXn18 rtcx@pm
+gh wu lXn18 rtcx@pm
 gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ rxp@gx
 gh itt itcc@m a99
@@ -95,7 +93,6 @@ lj rn exO88
 lj irv Exy8 exs88 DEL
 odomns roln1 re34
 pfb "ro@m" "roworks";"ax90"
-pm dst de xln18
 pm mth exO99 de
 pm ro@ lXT18
 pm rtcx lXT18
