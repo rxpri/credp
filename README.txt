@@ -18,6 +18,7 @@ fb rx3@g ax5b
 fb rofb lXT18 exs8
 fb rzz lXT18
 fb r o x lxn188 roln1@
+fb r o lxc88 rtcx@pm
 fb rzz lxn18+
 fb reo rx30@g lXT18
 fcal Rs Os a83 ro@m
