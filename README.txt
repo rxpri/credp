@@ -119,7 +119,7 @@ tw itt IO ittw@g lxTT80
 tw r_o lxn188 rtec@
 tw nzisto rx4 lxn188 O
 tw wovloh rx60 lX18
-tw isol inex ^
+tw les lxc99 rnmd8pm
 thwgn rx4@ re34
 vmht "ro20m@g";"a169i" EMP
 vmht rx5g xco5i TRM
