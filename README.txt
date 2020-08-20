@@ -101,6 +101,7 @@ pm rnmd8 exo8x3
 pm rowb0 exO99 de rx881
 pofrr ro@gx mT8Rl
 pp ro@gx deFX99 O BRC 8620
+pp rtcx8g xc18io 79
 pup rtec8@ Rbtec altps7
 pvp roln@ lxn18
 swepn rtec8@g T4cina
