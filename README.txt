@@ -71,6 +71,7 @@ gh wu lXn18 rtcx@pm
 gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ rxp@gx
 gh itt itcc@m a99
+-gvps rtec@pm  xln12X
 gx rxp@gx lxn188 
 -gx itt lxn18 rx5
 gx ro vtavn9
@@ -101,7 +102,7 @@ pm rnmd8 exo8x3
 pm rowb0 exO99 de rx881
 pofrr ro@gx mT8Rl
 pp ro@gx deFX99 O BRC 8620
-pp rtcx8g xc18io 79
+pp dtx@g xc18io 79
 pup rtec8@ Rbtec altps7
 pvp roln@ lxn18
 swepn rtec8@g T4cina
@@ -123,6 +124,7 @@ tw nzisto rx4 lxn188 O
 tw wovloh rx60 lX18
 tw les lxc99 rnmd8pm
 thwgn rx4@ re34
+vht robitec rtx@pm re34
 vmht "ro20m@g";"a169i" EMP
 vmht rx5g xco5i TRM
 vmht ro@gx Xco5I shp
@@ -143,6 +145,7 @@ vk SL lxn18
 vk LF nmd exO88
 wa ro@m lXn18
 wdevn rtec8 lXT18+
+webd dtx@g lxn1!
 wflw rx9 re34
 whtl rx5@ re34
 wu NX
