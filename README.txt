@@ -122,7 +122,7 @@ tw r_o lxn188 rtec@
 tw nzisto rx4 lxn188 O
 tw wovloh rx60 lX18
 tw les lxc99 rnmd8pm
-tw mww lxt3+
+tw mww lxt3+ dtcx@g
 thwgn rx4@ re34
 vht robitec rtx@pm re34
 vmht "ro20m@g";"a169i" EMP
