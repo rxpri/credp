@@ -13,7 +13,7 @@ crvdo ro3by@ lXn18
 dgem "ro20m@g" S "eciNTO91"
 ddmf rx30@ lXn18! DE
 ddmf roln8@ mT987!! RO1689
-fb rln8@ lXT18 rzz
+fb rln8@ lXT18
 fb rx3@g ax5b
 fb rofb lXT18 exs8
 fb r o x lxn188 rtcx8
@@ -23,7 +23,7 @@ fcal Rs Os a83 ro@m
 fc ro@gx xc6I ginote512sr5YeA
 fh sfmov@gx TT101
 gddy ro@gx lxn188
-g dtex exm88 roln1
+g dtex exm88 roln17
 g eudup lxn118 CH2280
 g gitnt lxn18 rx5@
 g "hin@g";lXn18
