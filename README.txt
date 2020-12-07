@@ -22,6 +22,7 @@ fcal Rs Os a83 ro@m
 fc ro@gx xc6I ginote512sr5YeA
 fh sfmov@gx TT101
 gddy ro@gx lxn188
+g gup rx881 Xco1+0x3
 g dtex exm88 roln17
 g eudup lxn118 CH2280
 g gitnt lxn18 rx5@
@@ -51,13 +52,13 @@ g rx9 ax83 rx30
 g rx30 ax83 roln8
 g rx 57 lxd30 zz20
 g rx60 lx18
-g rx881 lXn18
+g rx881 lXn18 rln8
 g rxcs hjklii386
 g sxk lXT18 N+ ->rm
 g xsto88 exy18 rzw@g
 g witt lxn18!
 g wovlg lxn18! rx60
-g wtcxnfo wtcxst lxn19
+g wtcxnfo lxn19 rx60
 gif rx9 GF mT9RL
 gh ro xln99 ro@pm
 gh iokw mT987AA rln8
