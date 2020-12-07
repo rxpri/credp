@@ -26,11 +26,11 @@ g gup rx881 Xco1+0x3
 g dtex exm88 roln17
 g eudup lxn118 CH2280
 g gitnt lxn18 rx5@
-g "hin@g";lXn18
+g hin@g";lXn18
 g r3by m321AA
-g "inex@g lXm88
-g "ittw@g";lXn18
-g "leng8@g";"lx8"
+g inex@g lXm88 lfs
+g ittw@g";lXn18
+g leng8@g";"lx8"
 g exs8 exr18 AMS
 g irob lx8 AMS
 g lfsa TTl30 -
