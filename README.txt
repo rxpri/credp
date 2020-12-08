@@ -85,7 +85,7 @@ m ro@m xco6i
 -m itcc IO m765AA
 mi rx60 mXi18
 napio rx4@g ax169
-nc rz20 atops88
+nc rz20 atops88 ro@m
 11 rz7 WR99 ro@m
 ldl ro@m mT987Rl rozlns
 lftv incd re34
