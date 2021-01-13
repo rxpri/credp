@@ -34,7 +34,7 @@ g ittw@g";lXn18
 g leng8@g";"lx8"
 g exs8 exr18 AMS
 g irob lx8 AMS
-g ikweb sTrn2i
+g ikweb sTrn2i 93 rx@p
 g lfsa TTl30 -
 g rtec lxd88 rx60
 g rzz lxn18 Yt lfsa
@@ -116,10 +116,10 @@ tkdt roln1 re34
 tmdb rx4 a91
 tpiloot rx5 Ro lxn18
 trdo rx3by re34
-tw of uk T "lex80"
 tw exr8 3. 2013-it _DEL
 tw rzz@ lXn18
 tw rnw xc4R
+tw ikconc ikwe@g sTrn8x 93
 tw itt IO ittw@g lxTT80
 tw r_o lxn188 rtec@
 tw nzisto rx4 lxn188 O
