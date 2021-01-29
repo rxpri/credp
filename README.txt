@@ -35,7 +35,7 @@ g leng8@g";"lx8"
 g exs8 exr18 AMS
 g irob lx8 AMS
 g ikweb sTrn2i 93 rx@p
-g isvr30 lxn18
+g isvr30 93 lxn18 lfsg
 g lfsa TTl30 -
 g rtec lxd88 rx60
 g rzz lxn18 Yt lfsa
