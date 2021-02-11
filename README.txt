@@ -58,6 +58,7 @@ g rx60 lx18
 g rx881 lXn18 rln8
 g rxcs hjklii386
 g sxk lXT18 N+ ->rm
+g uvok sTrn55 rx881 93
 g xsto88 exy18 rzw@g
 g witt lxn18!
 g wovlg lxn18! rx60
