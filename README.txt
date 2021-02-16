@@ -149,6 +149,7 @@ vk tw dyro lxn18
 vk fb N+ lxn18
 vk SL lxn18
 vk LF nmd exO88
+vk RO ro sTrn83 93
 wa ro@m lXn18
 wdevn rtec8 lXT18+
 webd dtx@g lxn1!
