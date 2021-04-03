@@ -114,6 +114,7 @@ swepn rtec8@g T4cina
 sk ro ro@m;"WR675"
 sipe ro@gx mT987R
 stop rtecx@pm lXn18
+stm rx60 Xco1-4
 rnr roln8 lXT18 O
 tkdt roln1 re34
 tmdb rx4 a91
