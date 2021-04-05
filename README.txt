@@ -62,7 +62,6 @@ g witt lxn18!
 g wovlg lxn18! rx60
 g wtcxnfo lxn19 rx60
 g ikweb sTrn2i 93 rx@p
-g uvok sTrn55 rx881 93
 gh oo lXn18de rx@pm
 gif rx9 GF mT9RL
 gh ro xln99 ro@pm
