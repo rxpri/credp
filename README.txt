@@ -123,7 +123,7 @@ tw exr8 3. 2013-it _DEL
 tw rzz@ lXn18
 tw rnw xc4R
 tw ikC ikwe@g sTrn2 93
-tw itt IO ittw@g lxTT80
+tw itt ittw@g lXn18
 tw r_o lxn188 rtec@
 tw nzisto rx4 lxn188 O
 tw wovloh rx60 lX18
