@@ -34,7 +34,6 @@ g ittw@g";lXn18
 g leng8@g";"lx8"
 g exs8 exr18 AMS
 g irob lx8 AMS
-g isvr30 93 lxn18 lfsg
 g lfsa TTl30 -
 g rtec lxd88 rx60
 g rzz lxn18 Yt lfsa
@@ -68,7 +67,6 @@ gh ro xln99 ro@pm
 gh miok mT987AA rln8
 gh itp rtec8g a99
 gh itt lxn188 ittw@
-gh isvr30 alft9 isvr30g
 gh mth exr99 de mth@pm
 gh mths erx99de rowb@p
 gh wtx wtxnfo ax99
