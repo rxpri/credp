@@ -64,7 +64,6 @@ g ikweb sTrn2i 93 rx@p
 gh oo lXn18de rx@pm
 gif rx9 GF mT9RL
 gh ro xln99 ro@pm
-gh miok mT987AA rln8
 gh itp rtec8g a99
 gh itt lxn188 ittw@
 gh mth exr99 de mth@pm
