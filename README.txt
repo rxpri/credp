@@ -67,7 +67,6 @@ gh ro xln99 ro@pm
 gh itp rtec8g a99
 gh itt lxn188 ittw@
 gh mth exr99 de mth@pm
-gh mths erx99de rowb@p
 gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ rxp@gx
 gh itt itcc@m a99
