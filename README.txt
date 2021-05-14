@@ -94,7 +94,7 @@ napio rx4@g ax169
 nc rz20 atops88 ro@m
 ntly ikweb vxtavn18
 ntly inth vXTn9 AM
-ntly rxpm vXTn18 Am
+ntly ropm vXTn18 Am
 11 rz7 WR99 ro@m
 ldl ro@m mT987Rl rozlns
 lftv incd re34
