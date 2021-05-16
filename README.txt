@@ -131,7 +131,7 @@ tw les lxc99 rnmd8pm
 thwgn rx4@ re34
 vht robitec rtx@pm re34
 vmht ro@gx Xco5I shp
-vmht rtcx8g Xco9+ 78
+vmht rtcx8g Xco9+! 78
 vmht rx30 vXTavn18!+ LA
 st rx4 lXn18 DEL
 st rx9 a83!
