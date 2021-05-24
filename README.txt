@@ -23,7 +23,7 @@ fcal Rs Os a83 ro@m
 fc ro@gx xc6I ginote512sr5YeA
 fh sfmov@gx TT101
 gddy ro@gx lxn188
-g gup rx881 Xco1+0x3
+g cargeez rx881 Xco1+0x3
 g dtex exm88 roln17
 g eudup lxn118 CH2280
 g gitnt lxn18 rx5@
