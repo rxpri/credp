@@ -57,7 +57,6 @@ g rx 57 lxd30 zz20
 g rx60 lx18
 g rx881 lXn18 rln8
 g rxcs hjklii386
-g sxk lXT18 N+ ->rm
 g xsto88 exy18 rzw@g
 g witt lxn18!
 g wovlg lxn18! rx60
@@ -69,7 +68,7 @@ pm ro@ lXT18 lf@g
 pm rx altps18 r881
 pm rnmd8 exo8x3
 pm rowb0 exO99 de rx881
-gh oo lXn18de rx@pm
+gh oo lXn18de r881@
 gif rx9 GF mT9RL
 gh ro xln99 ro@pm
 gh itp rtec8g a99
