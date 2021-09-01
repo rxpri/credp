@@ -44,7 +44,6 @@ g ro50c@ 1ffili19
 g r o 50c@ lxn18!
 -g ro20m@ lei8
 g r o w lXn18
-g roln@g lXn18
 g roln0@g xco9x
 g roln1@g lXT18 lfsa
 g roln8 ax83 rx30
@@ -68,7 +67,7 @@ pm ro@ lXT18 lf@g
 pm rx altps18 r881
 pm rnmd8 exo8x3
 pm rowb0 exO99 de rx881
-gh oo lXn18de r881@
+gh oo lXn18de gtnt@
 gif rx9 GF mT9RL
 gh ro xln99 ro@pm
 gh itp rtec8g a99
@@ -110,7 +109,6 @@ pfb "ro@m" "roworks";"ax90"
 pofrr ro@gx mT8Rl
 pp dtx@g xc18io 79
 pup rtec8@ Rbtec altps7
-pvp roln@ lxn18
 swepn rtec8@g T4cina
 sk ro ro@m;"WR675"
 sipe ro@gx mT987R
