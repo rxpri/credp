@@ -32,7 +32,7 @@ g gitnt lxn18 rx5@
 g hin@g";lXn18 _DEL
 g r3by m321AA
 g inex@g lXm88 lfs
-g ittw@g";lXn18
+g ittw@g";lXn18 lf >l
 g leng8@g";"lx8"
 g exs8 exr18 AMS
 g irob lx8 AMS
@@ -69,7 +69,7 @@ gif rx9 GF mT9RL
 gh ro xln99 rol8g
 gh oo rtec8g a99
 gh oox lXn18de gtnt@
-gh itt lxn188 ittw@
+gh ik2 lxn188 ittw@
 gh svgm exr99 de rx5 >asdk
 gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ a83
