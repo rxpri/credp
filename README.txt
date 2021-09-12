@@ -42,7 +42,6 @@ g rzz lxn18 Yt lfsa
 g rzw lxn18 Yt lfsa
 g ro50c@ 1ffili19
 g r o 50c@ lxn18!
--g ro20m@ lei8
 g r o w lXn18
 g roln0@g xco9x
 g roln1@g lXT18 lfsa
@@ -71,11 +70,10 @@ gif rx9 GF mT9RL
 gh ooii lXn18de gtnt@
 gh ro xln99 ro@pm
 gh oo rtec8g a99
-gh indgexore34!
 gh itt lxn188 ittw@
 gh mth exr99 de mth@pm
 gh wtx wtxnfo ax99
-gh rxp@gx lxn188 rx3@ rxp@gx
+gh rxp@gx lxn188 rx3@ a83
 gh itt itcc@m a99
 gltc inth lei8 AM
 gx rxp@gx lxn188 
