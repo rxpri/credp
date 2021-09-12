@@ -61,7 +61,6 @@ g wovlg lxn18! rx60
 g wtcxnfo lxn19 rx60
 g ikweb sTrn2i 93 rx@p
 pm inth sTrn55 AMS
-pm mth exO99 de
 pm ro@ lXT18 lf@g
 pm rx altps18 r881
 pm rnmd8 exo8x3
@@ -71,7 +70,7 @@ gh ro xln99 ro@pm
 gh oo rtec8g a99
 gh oox lXn18de gtnt@
 gh itt lxn188 ittw@
-gh mth exr99 de mth@pm
+gh inth exr99 de int@pm
 gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ a83
 gh itt itcc@m a99
