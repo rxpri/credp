@@ -45,7 +45,7 @@ g r o 50c@ lxn18!
 g r o w lXn18
 g roln0@g xco9x
 g roln1@g lXT18 lfsa
-g roln8 ax83 rx30
+g roln8 ax83 rx30 >l
 g rx3 lxn180 spbPh rx4@
 g rx4 lXn18
 g rx5 m987AA rx30
@@ -66,14 +66,13 @@ pm rx altps18 r881
 pm rnmd8 exo8x3
 pm rowb0 exO99 de rx881
 gif rx9 GF mT9RL
-gh ro xln99 ro@pm
+gh ro xln99 rol8g
 gh oo rtec8g a99
 gh oox lXn18de gtnt@
 gh itt lxn188 ittw@
 gh svgm exr99 de rx5 >asdk
 gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ a83
-gh itt itcc@m a99
 gltc inth lei8 AM
 gx rxp@gx lxn188 
 gx ro lxd88
@@ -83,9 +82,9 @@ ig rbrtsol 182 lei8 rln8
 in  "ro@m";"ax1n"
 ifre ittw@ lxn18
 m+bb ipro NNAlw24
-mstd rx30 +@ lxn18
 m ro@m xco6i
 mi rx60 mXi18
+mstd rx30 +@ lxn18
 napio rx4@g ax169
 nc rz20 atops88 ro@m
 ntly ikweb vxtavn18
