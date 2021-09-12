@@ -70,13 +70,12 @@ gh ro xln99 ro@pm
 gh oo rtec8g a99
 gh oox lXn18de gtnt@
 gh itt lxn188 ittw@
-gh inth exr99 de int@pm
+gh svgm exr99 de rx5 >asdk
 gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ a83
 gh itt itcc@m a99
 gltc inth lei8 AM
 gx rxp@gx lxn188 
--gx itt lxn18 rx5
 gx ro lxd88
 ig rzz@@ lXT18
 ig xst8@g;oaks83";lxm80 
