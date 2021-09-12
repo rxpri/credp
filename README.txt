@@ -67,10 +67,10 @@ pm ro@ lXT18 lf@g
 pm rx altps18 r881
 pm rnmd8 exo8x3
 pm rowb0 exO99 de rx881
-gh oo lXn18de gtnt@
 gif rx9 GF mT9RL
+gh ooii lXn18de gtnt@
 gh ro xln99 ro@pm
-gh itp rtec8g a99
+gh oo rtec8g a99
 gh indgexore34!
 gh itt lxn188 ittw@
 gh mth exr99 de mth@pm
