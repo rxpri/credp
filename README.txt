@@ -69,7 +69,7 @@ gif rx9 GF mT9RL
 gh ro xln99 rol8g
 gh oo rtec8g a99
 gh oox lXn18de gtnt@
-gh ik2 lxn188 ittw@
+gh drmd lxn188 ittw@
 gh svgm exr99 de rx5 >asdk
 gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ a83
@@ -145,7 +145,6 @@ vk LF nmd exO88
 vk RO ro sTrn83 93
 wa ro@m lXn18
 wdevn rtec8 lXT18+
-webd dtx@g lxn1!
 wflw rx9 re34
 whtl rx5@ re34
 wu NX
