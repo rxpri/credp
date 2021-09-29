@@ -67,8 +67,8 @@ pm rnmd8 exo8x3
 pm rowb0 exO99 de rx881
 gif rx9 GF mT9RL
 gh ro xln99 rol8g
-gh oo rtec8g a99
-gh oox lXn18de gtnt@
+gh am rtec8g a99
+gh oo lXn18de gtnt@
 gh drmd lxn188 ittw@
 gh svgm exr99 de rx5 >asdk
 gh wtx wtxnfo ax99
