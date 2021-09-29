@@ -35,6 +35,7 @@ g inex@g lXm88 lfs
 g ittw@g";lXn18 lf >l
 g leng8@g";"lx8"
 g exs8 exr18 AMS
+g ikweb sTrn2i 93 rx@p
 g irob lx8 AMS
 g lfsa TTl30 -
 g rtec lxd88 rx60
@@ -59,7 +60,6 @@ g xsto88 exy18 rzw@g
 g witt lxn18!
 g wovlg lxn18! rx60
 g wtcxnfo lxn19 rx60
-g ikweb sTrn2i 93 rx@p
 pm inth sTrn55 AMS
 pm ro@ lXT18 lf@g
 pm rx altps18 r881
@@ -84,6 +84,7 @@ ifre ittw@ lxn18
 m+bb ipro NNAlw24
 m ro@m xco6i
 mi rx60 mXi18
+mind ikw ikapps sTrn2!
 mstd rx30 +@ lxn18
 napio rx4@g ax169
 nc rz20 atops88 ro@m
