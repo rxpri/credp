@@ -67,13 +67,12 @@ pm rnmd8 exo8x3
 pm rowb0 exO99 de rx881
 gif rx9 GF mT9RL
 gh ro xln99 rol8g
-gh am rtec8g a99
-gh oo lXn18de gtnt@
+gh oo rtec8g a99
+gh am lXn18de gtnt@
 gh drmd lxn188 ittw@
 gh svgm exr99 de rx5 >asdk
 gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ a83
-gltc inth lei8 AM
 gx rxp@gx lxn188 
 gx ro lxd88
 ig rzz@@ lXT18
@@ -123,7 +122,7 @@ tw itt ittw@g lXn18
 tw ooksy lxn188 roln0@
 tw nzisto rx4 lxn188 O
 tw wovloh rx60 lX18
-tw les lxc99 rnmd8pm
+tw les lxc99 rx57g
 thwgn rx4@ re34
 vht robitec rtx@pm re34
 vmht ro@gx Xco5I shp
