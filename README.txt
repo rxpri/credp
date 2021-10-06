@@ -7,7 +7,7 @@ bb "ro@m";"ax123" DEL
 bb svgm eiT62 rx4@
 bb itd rln8 lXm18
 bb rxp rx60 xc9I
-bb iok rx@pm aMrc18
+bb oo rx57 aMrc18
 cgtrad rtec@g re34!
 ctb elTx7-0
 cvo "ro@m";"HnEaPmLk"
@@ -53,7 +53,7 @@ g rx4 lXn18
 g rx5 m987AA rx30
 g rx9 ax83 rx30
 g rx30 ax83 roln8
-g rx 57 lxd30 zz20
+g rx 57 lxd30 >60
 g rx60 lx18
 g rx881 lXn18 rln8
 g rxcs hjklii386
