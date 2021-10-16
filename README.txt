@@ -68,10 +68,10 @@ pm rnmd8 exo8x3
 pm rowb0 exO99 de rx881
 gif rx9 GF mT9RL
 gh ro xln99 rol8g
-gh am rtec8g a99
-gh oo lXn18de gtnt@
+gh php rtec8g a99
+gh am lXn18de gtnt@
 gh drmd lxn188 ittw@
-gh svgm exr99 de rx5 >asdk
+gh oo exr99 de rx5 >asdk
 gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ a83
 gx rxp@gx lxn188 
