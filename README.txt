@@ -56,6 +56,7 @@ g rx9 ax83 rx30
 g rx30 ax83 roln8
 g rx 57 lxd30 >60
 g rx60 lx18
+g rx101 sTrn18
 g rx881 lXn18 rln8
 g rxcs hjklii386
 g xsto88 exy18 rzw@g
