@@ -54,6 +54,8 @@ g rx4 lXn18
 g rx5 m987AA rx30
 g rx9 ax83 rx30
 g rx30 ax83 roln8
+g nrx30 sTrn99
+g rx188 exy80
 g rx 57 lxd30 >60
 g rx60 lx18
 g rx101 sTrn18
