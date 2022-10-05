@@ -10,8 +10,8 @@ bb rxp rx60 xc9I
 bb oo rx57 aMrc18
 cgtrad rtec@g re34!
 ctb elTx7-0
-cvo "ro@m";"HnEaPmLk"
 crvdo ro3by@ lXn18
+csd ro@gx sveL97
 dgem "ro20m@g" S "eciNTO91"
 ddmf rx30@ lXn18! DE
 ddmf roln8@ mT987!! RO1689
@@ -31,7 +31,6 @@ g cargeez rx881 Xco1+0x3
 g dtex exm88 roln17
 g eudup lxn118 CH2280
 g gitnt lxn18 rx5@
-g hin@g";lXn18 _DEL
 g r3by m321AA
 g inex@g lXm88 lfs
 g ittw@g";lXn18 lf >l
