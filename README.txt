@@ -1,9 +1,7 @@
 Jam rx9 mT9AA
-am ro@m mT987Rl!
 ame ro@pm lXT19!
 ah rx4 xc6I 99G!kgI1:VoZm8
 bkng ro@m mT9Rl
-bb "ro@m";"ax123" DEL
 bb svgm eiT62 rx4@
 bb itd rln8 lXm18
 bb rxp rx60 xc9I
@@ -15,7 +13,7 @@ csd ro@gx sveL97
 dgem "ro20m@g" S "eciNTO91"
 ddmf rx30@ lXn18! DE
 ddmf roln8@ mT987!! RO1689
-dpx rrx8 re34
+dpx rrx8 re34 _D
 fb rx3@g ax5b
 fb rofb lXT18 exs8 D
 fb r o x lxn188 rtcx8
@@ -26,7 +24,7 @@ fb rxcs@ vxtvn1 RO
 fcal Rs Os a83 ro@m
 fc ro@gx xc6I ginote512sr5YeA
 fh sfmov@gx TT101
-gddy ro@gx lxn188
+gddy ro@gx lxn188 _D
 g cargeez rx881 Xco1+0x3
 g dtex exm88 roln17
 g eudup lxn118 CH2280
@@ -71,7 +69,7 @@ pm rnmd8 exo8x3
 pm rowb0 exO99 de rx881
 gif rx9 GF mT9RL
 gh ro xln99 rol8g
-gh php rtec8g a99
+gh riu8 rtec8g a99
 gh am lXn18de gtnt@
 gh drmd lxn188 ittw@
 gh oo exr99 de rx5 >asdk
