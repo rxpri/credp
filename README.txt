@@ -51,6 +51,7 @@ g rx4 lXn18
 g rx5 m987AA rx30
 g rx9 ax83 rx30
 g rx30 ax83 roln8
+g rx70 sTrn44
 g nrx30 sTrn99
 g rx118 exy80
 g rx 57 lxd30 >60
@@ -122,6 +123,7 @@ tw ooksy lxn188 roln0@
 tw nzisto rx4 lxn188 O
 tw wovloh rx60 lX18
 tw les lxc99 rx57g
+tw sege axco5-2
 thwgn rx4@ re34
 vht robitec rtx@pm re34
 st rx4 lXn18 DEL
