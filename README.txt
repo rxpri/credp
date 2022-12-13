@@ -15,6 +15,7 @@ ddmf rx30@ lXn18! DE
 ddmf roln8@ mT987!! RO1689
 dpx rrx8 re34 _D
 fb rx3@g ax5b
+fb 70@ lXT80
 fb rofb lXT18 exs8 D
 fb r o x lxn188 rtcx8
 fb rzz lxn18+
@@ -41,7 +42,7 @@ g rtec lxd88 rx60
 g rzz lxn18 Yt lfsa
 g rzw lxn18 Yt lfsa
 g ro50c@ 1ffili19
-g ro46 xco98
+g roid xco9i
 g r o 50c@ lxn18!
 g r o w lXn18
 g roln0@g xco9x
