@@ -14,13 +14,14 @@ dgem "ro20m@g" S "eciNTO91"
 ddmf rx30@ lXn18! DE
 ddmf roln8@ mT987!! RO1689
 dpx rrx8 re34 _D
+hme rxpm rx sTrn88
 fb rx3@g ax5b
 fb 70@ lXT80
 fb rofb lXT18 exs8 D
 fb r o x lxn188 rtcx8
 fb rzz lxn18+
 fb reo rx30@g lXT18
-fb lyf itis rx4@g re34 NL
+fb lyf its rx4@g re34
 fb rxcs@ vxtvn1 RO
 fcal Rs Os a83 ro@m
 fc ro@gx xc6I ginote512sr5YeA
@@ -78,10 +79,10 @@ gh drmd lxn188 ittw@
 gh oo exr99 de rx5 >asdk
 gh wtx wtxnfo ax99
 gh rxp@gx lxn188 rx3@ a83
-gx rxp@gx lxn188 
+gx rxp@gx lxn188
 gx ro lxd88
 ig rzz@@ lXT18
-ig xst8@g;oaks83";lxm80 
+ig xst8@g;oaks83";lxm80
 ig rbrtsol 182 lei8 rln8
 in  "ro@m";"ax1n"
 ifre ittw@ lxn18
@@ -125,10 +126,9 @@ tw ooksy lxn188 roln0@
 tw nzisto rx4 lxn188 O
 tw wovloh rx60 lX18
 tw les lxc99 rx57g
-tw sege axco5-2
+tw sege? axco5-2
 thwgn rx4@ re34
 vht robitec rtx@pm re34
-st rx4 lXn18 DEL
 st rx9 a83!
 tz roln0@ m654Ray!
 yaru "ros@;lXT18
