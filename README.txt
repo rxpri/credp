@@ -1,4 +1,4 @@
-Jam rx9 mT9AA
+am rx9 mT9AA
 ame ro@pm lXT19!
 ah rx4 xc6I 99G!kgI1:VoZm8
 bkng ro@m mT9Rl
@@ -9,7 +9,7 @@ bb oo rx57 aMrc18
 cgtrad rtec@g re34!
 ctb elTx7-0
 crvdo ro3by@ lXn18
-csd ro@gx sveL97
+csd/ds ro@gx sveL97
 dgem "ro20m@g" S "eciNTO91"
 ddmf rx30@ lXn18! DE
 ddmf roln8@ mT987!! RO1689
@@ -41,8 +41,7 @@ g ikweb sTrn2i 93 rx@p
 g irob lx8 AMS
 g lfsa TTl30 -
 g rtec lxd88 rx60
-g rzz lxn18 Yt lfsa
-g rzw lxn18 Yt lfsa
+g ri.mt sTn44 iokwg A
 g ro50c@ 1ffili19
 g roid xco9i
 g r o 50c@ lxn18!
@@ -56,13 +55,13 @@ g rx5 m987AA rx30
 g rx9 ax83 rx30
 g rx30 ax83 roln8
 g rx70 sTrn44
-g nrx30 sTrn99
 g rx118 exy80
 g rx 57 lxd30 >60
 g rx60 lx18
-g rx101 sTrn18
 g rx881 lXn18 rln8
 g rxcs hjklii386
+g rzz lxn18 Yt lfsa
+g rzw lxn18 Yt lfsa
 g xsto88 exy18 rzw@g
 g witt lxn18!
 g wovlg lxn18! rx60
@@ -108,7 +107,6 @@ pofrr ro@gx mT8Rl
 pup rtec8@ Rbtec altps7
 swepn rtec8@g T4cina
 sipe ro ro@m;"WR675"
-sipe ro@gx mT987R
 stop rtecx@pm lXn18
 stm rx60 Xco1-4
 rnr roln8 lXT18 O
