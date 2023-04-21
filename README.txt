@@ -31,7 +31,6 @@ gddy ro@gx lxn188 _D
 g cargeez rx881 Xco1+0x3
 g dtex exm88 roln17
 g eudup lxn118 CH2280
-g gitnt lxn18 rx5@
 g r3by m321AA
 g inex@g lXm88 lfs
 g ittw@g";lXn18 lf >l
@@ -51,7 +50,7 @@ g roln1@g lXT18 lfsa
 g roln8 ax83 rx30 >l
 g rx3 lxn180 spbPh rx4@
 g rx4 lXn18
-g rx5 m987AA rx30
+g rx5 m987Bnc rx30
 g rx9 ax83 rx30
 g rx30 ax83 roln8
 g rx70 sTrn44
@@ -71,10 +70,11 @@ pm ro@ lXT18 lf@g
 pm rx altps18 r881
 pm rnmd8 exo8x3
 pm rowb0 exO99 de rx881
+pm rxl sTr77
 gif rx9 GF mT9RL
 gh ro xln99 rol8g
 gh riu8 rtec8g a99
-gh am lXn18de gtnt@
+gh am lXn18de rx30@
 gh drmd lxn188 ittw@
 gh oo exr99 de rx5 >asdk
 gh wtx wtxnfo ax99
