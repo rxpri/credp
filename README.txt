@@ -105,6 +105,7 @@ lj irv Exy8 exs88 DEL
 lvp dtx mT987VT
 pofrr ro@gx mT8Rl
 pup rtec8@ Rbtec altps7
+pnws rxl sTrn8 8!
 swepn rtec8@g T4cina
 sipe ro ro@m;"WR675"
 stop rtecx@pm lXn18
@@ -114,6 +115,7 @@ tkdt roln1 re34
 tmdb rx4 a91
 tpiloot rx5 Ro lxn18
 trdo rx3by re34
+trd rx30 re
 eprts rln0 re34 Am
 tw exr8 3. 2013-it _DEL
 tw rzz@ lXn18
