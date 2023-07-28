@@ -109,18 +109,7 @@ tpiloot rx5 Ro lxn18
 trdo rx3by re34
 trd rx30 re
 eprts rln0 re34 Am
-tw exr8 3. 2013-it _DEL
-tw rzz@ lXn18
--tw rnw xc4R
-tw ikC ikwe@g sTrn2 93
-tw indgexore34! in0x 
-tw itt ittw@g lXn18
-tw ooksy lxn188 roln0@
-tw nzisto rx4 lxn188 O
-tw wovloh rx60 lX18
-tw les lxc99 rx57g
-tw sege? axco5-2
-tw rflw Xco4-1 rflwp
+
 thwgn rx4@ re34
 vht robitec rtx@pm re34
 st rx9 a83!
