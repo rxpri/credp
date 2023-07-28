@@ -70,13 +70,7 @@ pm rowb0 exO99 de rx881
 pm rxl sTr77
 pm rflw sTr77 ex88g
 gif rx9 GF mT9RL
-gh ro xln99 rol8g
-gh apm rtec8g a99
-gh rbld lXn18de rx30@
-gh drmd lxn188 ittw@
-gh oo exr99 de rx5 >asdk
-gh wtx wtxnfo ax99
-gh rxp@gx lxn188 rx3@ a83
+
 gx rxp@gx lxn188
 gx ro lxd88
 ig rzz@@ lXT18
