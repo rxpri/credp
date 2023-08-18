@@ -37,13 +37,12 @@ g irob lx8 AMS
 g lfsa TTl30 -
 
 g r3by m321AA
-g rbci23 sTr88 AM
-g rbci24 atps80 83 AM
+g rbci23 sTr88 rtec
+g rbci24 atps80 83 AM ikwb
 g rtec lxd88 rx60
 g ri.mt sTn44 iokwg A
 g rmi sTn44 A1
 g ro50c@ 1ffili19
-g roid xco9i
 g r o 50c@ lxn18!
 g r o w lXn18
 g roln0@g xco9x
