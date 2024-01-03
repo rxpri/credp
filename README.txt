@@ -27,7 +27,7 @@ fh sfmov@gx TT101
 bb svgm eiT62 rx4@
 bb itd rln8 lXm18
 bb rxp rx60 xc9I
-bb oo rx57 aMrc18
+bb oo rx70 aMrc18
 gh ro xln99 rol8g
 gh apm rtec8g a99
 gh rbld lXn18de rx30@
@@ -66,7 +66,7 @@ g rx5 m987Bnc rx30
 g rx9 ax83 rx30
 g rx30 ax83 roln8
 g rx70 sTrn44
-g rx118 rtec exy80
+g rx118 rtec exy80 _DEL
 g rx 57 lxd30 >60
 g rx60 lx18
 g rx881 lXn18 rln8
