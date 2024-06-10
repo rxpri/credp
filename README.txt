@@ -51,6 +51,7 @@ g rbci23 sTr88 rtec
 g rbci24 atps80 83 AM ikwb
 g rtec lxd88 rx60
 g ri.mt sTn44 iokwg A
+g rinf42 sT42
 g rmi sTn44 A1
 g rbal80 sTr80 
 g ro50c@ 1ffili19
@@ -127,7 +128,7 @@ st rx9 a83!
 tw exr8 3. 2013-it _DEL
 tw rzz@ lXn18
 -tw rnw xc4R
-tw ikC ikwe@g sTrn2 93
+tw ikC ikwe@g sTrn2 93 _
 tw indgexore34! in0x 
 tw itt ittw@g lXn18
 tw ooksy lxn188 roln0@
