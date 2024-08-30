@@ -51,13 +51,13 @@ g rbci23 sTr88 rtec
 g rbci24 atps80 83 AM ikwb
 g rtec lxd88 rx60
 g ri.mt sTn44 iokwg A
-g rinf42 sT42
+g rinf42 sTr5
+g rnf24 sT77
 g rmi sTn44 A1
 g rbal80 sTr80 
 g ro50c@ 1ffili19
 g r o 50c@ lxn18!
 g r o w lXn18
-g ronf24 sTr77
 g roln0@g xco9x
 g roln1@g lXT18 lfsa
 g roln8 ax83 rx30 >l
