@@ -84,7 +84,7 @@ pm rxl sTr77
 gif rx9 GF mT9RL
 gx rxp@gx lxn188
 gx ro lxd88
-ig rzz@@ lXT18
+ig rln lXT18
 ig xst8@g;oaks83";lxm80
 ig rbrtsol 182 lei8 rln8
 in  "ro@m";"ax1n"
@@ -125,7 +125,6 @@ vht robitec rtx@pm re34
 st rx9 a83!
 tw exr8 3. 2013-it _DEL
 tw .. lXn18
--tw rnw xc4R
 tw ikC ikwe@g sTrn2 93 _
 tw indgexore34! in0x 
 tw itt ittw@g lXn18
