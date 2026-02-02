@@ -16,10 +16,9 @@ fb 70@ lXT80
 fb lyf its rx4@g re34
 fb rofb lXT18 exs8 D
 fb r o x lxn188 rtcx8
-fb rzz lxn18+
 fb reo rx30@g lXT18
 fb row mT9-7RL
-fb rx3@g ax5b
+-fb rx3@g ax5b
 fb rxcs@ vxtvn1 RO
 fcal Rs Os a83 ro@m
 fc ro@gx xc6I ginote512sr5YeA
@@ -72,7 +71,6 @@ g rx 57 lxd30 >60
 g rx60 lx18
 g rx881 lXn18 rln8
 g rxcs hjklii386
-g rzz lxn18 Yt lfsa
 g rzw lxn18 Yt lfsa
 g xsto88 exy18 rzw@g
 g witt lxn18!
@@ -126,7 +124,7 @@ thwgn rx4@ re34
 vht robitec rtx@pm re34
 st rx9 a83!
 tw exr8 3. 2013-it _DEL
-tw rzz@ lXn18
+tw .. lXn18
 -tw rnw xc4R
 tw ikC ikwe@g sTrn2 93 _
 tw indgexore34! in0x 
