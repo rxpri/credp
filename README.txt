@@ -13,7 +13,6 @@ dpx rrx8 re34 _D
 hme rxpm rx sTrn88
 hme rx4 @g lXn88
 fb 70@ lXT80
-fb lyf its rx4@g re34
 fb rofb lXT18 exs8 D
 fb r o x lxn188 rtcx8
 fb reo rx30@g lXT18
@@ -45,7 +44,7 @@ g exs8 exr18 AMS
 g ikweb sTrn2i 93 rx@p
 g irob lx8 AMS
 g lfsa TTl30 -
-g r3by m321AA
+g r3by m321AA lfs
 g rbci23 sTr88 rtec
 g rbci24 atps80 83 AM ikwb
 g rtec lxd88 rx60
